@@ -8,6 +8,10 @@ it works on server-side and create old fashioned print in stead of good looking 
 This bookmarklet let you print Wiki page directly without unnecessary elements, through your
 browser.
 
+**UPDATED**
+Finally, backlog.com provided new opition 'Printable Page' in the menu of Wiki,
+which uses 'window.print()' as same as what the bookmarklet do.
+
 ## How to use
 1. Create new bookmark on your browser, any page is ok. 
 1. Edit the bookmark with URL below starts with 'javascript:'
